@@ -19,5 +19,7 @@ composer install
 
 3. Remove cache file
 
+4. Delete System32
+
 
 
