@@ -1,6 +1,6 @@
 # Welcome to RUPP 2021 Y3 S2
 
-This is the samle repository for demo purpose
+This is the samle repository for demo purpose.
 
 ### Local setup
 
@@ -16,6 +16,8 @@ git clone git@github.com:Nguonchhay/RUPP2021Y3S2.git rupp2021y3s2
 cd rupp2021y3s2
 composer install
 ```
+
+3. Remove cache file
 
 
 
