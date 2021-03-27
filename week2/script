@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+
+<?php
+
+echo "*** Create directory ***";
+mkdir("project", 755);
+echo "Done";
+
+?>
