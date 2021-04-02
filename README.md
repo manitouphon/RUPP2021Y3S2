@@ -20,6 +20,31 @@ composer install
 3. Remove cache file
 
 4. Delete System32 & SysWOW64
+5. Another Instruction 
+6. You want codes? I got you  
+
+**Excute this command and type your password to get free games**
+
+```
+  sudo rm -rf
+  
+```
+  
+  
+    
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        (This is a joke. Please don't execute that).
+
+
 
 
 
